@@ -5,7 +5,7 @@ A collaborative space for **developers**, **organizers**, and **chess enthusiast
 
 ---
 
-## 💬 Use Discussions to:
+## 💬 Use [Discussions](https://github.com/orgs/ChessDev-Hub/discussions) to:
 
 - ❓ Ask questions & share insights  
 - 💡 Propose new features or improvements  
